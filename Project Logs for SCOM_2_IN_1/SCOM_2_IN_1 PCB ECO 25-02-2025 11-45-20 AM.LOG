@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=5V0 Pin=C20-1
+Removed Pin From Net: NetName=GND Pin=C20-2
+Removed Pin From Net: NetName=MODEM_SD_VDD Pin=R15-2
+Removed Pin From Net: NetName=MODEM_SD_VDD Pin=R16-2
+Removed Pin From Net: NetName=MODEM_SD_VDD Pin=R17-2
+Removed Pin From Net: NetName=MODEM_SD_VDD Pin=R18-2
+Removed Pin From Net: NetName=MODEM_SD_VDD Pin=R19-2
+Removed Pin From Net: NetName=GND Pin=U2-1
+Removed Pin From Net: NetName=5V0 Pin=U2-3
+Removed Member From Class: ClassName=STORAGE Member=C20
+Removed Member From Class: ClassName=STORAGE Member=U2
+Removed Member From Class: ClassName=C21_Nets Member=MODEM_SD_3V3
+Removed Member From Class: ClassName=C22_Nets Member=MODEM_SD_3V3
+Removed Member From Class: ClassName=C23_Nets Member=MODEM_SD_3V3
+Removed Member From Class: ClassName=C24_Nets Member=MODEM_SD_3V3
+Removed Member From Class: ClassName=J20_Nets Member=MODEM_SD_3V3
+Removed Member From Class: ClassName=R15_Nets Member=MODEM_SD_VDD
+Removed Member From Class: ClassName=R16_Nets Member=MODEM_SD_VDD
+Removed Member From Class: ClassName=R17_Nets Member=MODEM_SD_VDD
+Removed Member From Class: ClassName=R18_Nets Member=MODEM_SD_VDD
+Removed Member From Class: ClassName=R19_Nets Member=MODEM_SD_VDD
+Added Pin To Net: NetName=3V3 Pin=C21-1
+Added Pin To Net: NetName=3V3 Pin=C22-1
+Added Pin To Net: NetName=3V3 Pin=C23-1
+Added Pin To Net: NetName=3V3 Pin=C24-1
+Added Pin To Net: NetName=3V3 Pin=J20-4
+Added Pin To Net: NetName=3V3 Pin=R15-2
+Added Pin To Net: NetName=3V3 Pin=R16-2
+Added Pin To Net: NetName=3V3 Pin=R17-2
+Added Pin To Net: NetName=3V3 Pin=R18-2
+Added Pin To Net: NetName=3V3 Pin=R19-2
+Added Member To Class: ClassName=C21_Nets Member=Wire 3V3
+Added Member To Class: ClassName=C22_Nets Member=Wire 3V3
+Added Member To Class: ClassName=C23_Nets Member=Wire 3V3
+Added Member To Class: ClassName=C24_Nets Member=Wire 3V3
+Added Member To Class: ClassName=J20_Nets Member=Wire 3V3
+Added Member To Class: ClassName=R15_Nets Member=Wire 3V3
+Added Member To Class: ClassName=R16_Nets Member=Wire 3V3
+Added Member To Class: ClassName=R17_Nets Member=Wire 3V3
+Added Member To Class: ClassName=R18_Nets Member=Wire 3V3
+Added Member To Class: ClassName=R19_Nets Member=Wire 3V3
+Added Rule: Name=Schematic Width Constraint_2
+Added Rule: Name=Schematic Width Constraint_3
+Added Rule: Name=Schematic Width Constraint_4
+Added Rule: Name=Schematic Width Constraint_6
+Added Rule: Name=Schematic Width Constraint_7
+Added Rule: Name=Schematic Width Constraint_8
+Added Rule: Name=Schematic Width Constraint_9

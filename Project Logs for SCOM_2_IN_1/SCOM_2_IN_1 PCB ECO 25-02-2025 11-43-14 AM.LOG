@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=MODEM_FLASH_SIO3 Pin=M1-119
+Removed Pin From Net: NetName=MODEM_FLASH_SIO2 Pin=M1-121
+Removed Pin From Net: NetName=MODEM_FLASH_SIO1 Pin=M1-122
+Removed Pin From Net: NetName=MODEM_FLASH_SIO0 Pin=M1-123
+Removed Pin From Net: NetName=MODEM_FLASH_CS Pin=M1-124
+Removed Pin From Net: NetName=MODEM_FLASH_SCK Pin=M1-125
+Removed Member From Class: ClassName=M1_Nets Member=MODEM_FLASH_CS
+Removed Member From Class: ClassName=M1_Nets Member=MODEM_FLASH_SCK
+Removed Member From Class: ClassName=M1_Nets Member=MODEM_FLASH_SIO0
+Removed Member From Class: ClassName=M1_Nets Member=MODEM_FLASH_SIO1
+Removed Member From Class: ClassName=M1_Nets Member=MODEM_FLASH_SIO2
+Removed Member From Class: ClassName=M1_Nets Member=MODEM_FLASH_SIO3
+Removed Member From Class: ClassName=M1_Nets Member=MODEM_I2C1_SCL
+Removed Member From Class: ClassName=M1_Nets Member=MODEM_I2C1_SDA
+Removed Member From Class: ClassName=M1_Nets Member=MODEM_SPI0_CLK
+Removed Member From Class: ClassName=M1_Nets Member=MODEM_SPI0_CS
+Removed Member From Class: ClassName=M1_Nets Member=MODEM_SPI0_MI
+Removed Member From Class: ClassName=M1_Nets Member=MODEM_SPI0_MO
+Change Net Name : Old Net Name=MODEM_I2C1_SCL New Net Name=NetM1_41
+Change Net Name : Old Net Name=MODEM_I2C1_SDA New Net Name=NetM1_42
+Change Net Name : Old Net Name=MODEM_SPI0_CLK New Net Name=NetM1_40
+Change Net Name : Old Net Name=MODEM_SPI0_CS New Net Name=NetM1_37
+Change Net Name : Old Net Name=MODEM_SPI0_MI New Net Name=NetM1_39
+Change Net Name : Old Net Name=MODEM_SPI0_MO New Net Name=NetM1_38
+Added Pin To Net: NetName=NetM1_119 Pin=M1-119
+Added Net: Name=NetM1_119
+Added Pin To Net: NetName=NetM1_121 Pin=M1-121
+Added Net: Name=NetM1_121
+Added Pin To Net: NetName=NetM1_122 Pin=M1-122
+Added Net: Name=NetM1_122
+Added Pin To Net: NetName=NetM1_123 Pin=M1-123
+Added Net: Name=NetM1_123
+Added Pin To Net: NetName=NetM1_124 Pin=M1-124
+Added Net: Name=NetM1_124
+Added Pin To Net: NetName=NetM1_125 Pin=M1-125
+Added Net: Name=NetM1_125
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_37
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_38
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_39
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_40
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_41
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_42
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_119
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_121
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_122
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_123
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_124
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_125

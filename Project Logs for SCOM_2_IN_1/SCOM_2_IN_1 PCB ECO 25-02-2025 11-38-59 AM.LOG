@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=GNSS_ANT_VDD Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=J14-1
+Removed Pin From Net: NetName=GND Pin=J14-2
+Removed Pin From Net: NetName=GNSS_ANT_VDD Pin=R3-2
+Removed Member From Class: ClassName=MODEM_PT1 Member=C8
+Removed Member From Class: ClassName=MODEM_PT1 Member=C9
+Removed Member From Class: ClassName=MODEM_PT1 Member=C10
+Removed Member From Class: ClassName=MODEM_PT1 Member=C11
+Removed Member From Class: ClassName=MODEM_PT1 Member=J14
+Removed Member From Class: ClassName=MODEM_PT1 Member=L2
+Removed Member From Class: ClassName=MODEM_PT1 Member=R3
+Removed Member From Class: ClassName=MODEM_PT1 Member=R4
+Removed Member From Class: ClassName=ANT_50R Member=MODEM_ANT_GNSS
+Removed Member From Class: ClassName=M1_Nets Member=MODEM_ANT_GNSS
+Removed Member From Class: ClassName=ANT_50R Member=NetC9_1
+Removed Member From Class: ClassName=ANT_50R Member=NetC9_2
+Added Pin To Net: NetName=NetM1_47 Pin=M1-47
+Added Net: Name=NetM1_47
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_47
+Added Rule: Name=Schematic Width Constraint
+Added Rule: Name=Schematic Width Constraint_1

@@ -1,0 +1,68 @@
+Removed Pin From Net: NetName=GND Pin=C27-2
+Removed Pin From Net: NetName=GND Pin=C44-2
+Removed Pin From Net: NetName=GND Pin=C45-2
+Removed Pin From Net: NetName=GND Pin=C46-2
+Removed Pin From Net: NetName=VIN Pin=R47-2
+Removed Pin From Net: NetName=GND Pin=R58-2
+Removed Pin From Net: NetName=GND Pin=R60-2
+Removed Pin From Net: NetName=GND Pin=R61-2
+Removed Pin From Net: NetName=GND Pin=U6-1
+Removed Member From Class: ClassName=POWER Member=C27
+Removed Member From Class: ClassName=POWER Member=C44
+Removed Member From Class: ClassName=POWER Member=C45
+Removed Member From Class: ClassName=POWER Member=C46
+Removed Member From Class: ClassName=POWER Member=D6
+Removed Member From Class: ClassName=POWER Member=L3
+Removed Member From Class: ClassName=POWER Member=Q4
+Removed Member From Class: ClassName=POWER Member=Q5
+Removed Member From Class: ClassName=POWER Member=R47
+Removed Member From Class: ClassName=POWER Member=R48
+Removed Member From Class: ClassName=POWER Member=R57
+Removed Member From Class: ClassName=POWER Member=R58
+Removed Member From Class: ClassName=POWER Member=R59
+Removed Member From Class: ClassName=POWER Member=R60
+Removed Member From Class: ClassName=POWER Member=R61
+Removed Member From Class: ClassName=POWER Member=TP6
+Removed Member From Class: ClassName=POWER Member=TP7
+Removed Member From Class: ClassName=POWER Member=TP10
+Removed Member From Class: ClassName=POWER Member=TP11
+Removed Member From Class: ClassName=POWER Member=U6
+Removed Member From Class: ClassName=POWER Member=ZD2
+Removed Member From Class: ClassName=D7_Nets Member=NetC44_1
+Change Footprint: Footprint Not Found QFN65P400X400X90_HS-17M
+Change Component Comment : Designator=U2 Old Comment=FOD817A3SD New Comment=TP5100
+Change component parameters: Designator = "U2" ("U2"); Footprint = "FOD817A3SD"; UniqueID = "\IRCYABQI" ("\IRCYABQI")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Top Power"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "TP5100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=TP5100_BATT Pin=D7-2
+Added Pin To Net: NetName=NetR3_1 Pin=U2-1
+Added Pin To Net: NetName=NetD1_1 Pin=U2-2
+Added Pin To Net: NetName=NetD1_1 Pin=U2-3
+Added Pin To Net: NetName=NetR3_1 Pin=U2-4
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U2-6
+Add Pin To Net: Unknown Pin: Pin U2-7
+Add Pin To Net: Unknown Pin: Pin U2-8
+Add Pin To Net: Unknown Pin: Pin U2-9
+Add Pin To Net: Unknown Pin: Pin U2-10
+Add Pin To Net: Unknown Pin: Pin U2-11
+Add Pin To Net: Unknown Pin: Pin U2-12
+Add Pin To Net: Unknown Pin: Pin U2-13
+Add Pin To Net: Unknown Pin: Pin U2-14
+Add Pin To Net: Unknown Pin: Pin U2-15
+Add Pin To Net: Unknown Pin: Pin U2-16
+Add Pin To Net: Unknown Pin: Pin U2-17
+Change Net Name : Old Net Name=12V0 New Net Name=PWR_IN
+Added Member To Class: ClassName=POWER Member=Component U2 TP5100
+Added Member To Class: ClassName=C1_Nets Member=Wire PWR_IN
+Added Member To Class: ClassName=C2_Nets Member=Wire PWR_IN
+Added Member To Class: ClassName=C3_Nets Member=Wire PWR_IN
+Added Member To Class: ClassName=C4_Nets Member=Wire PWR_IN
+Added Member To Class: ClassName=D4_Nets Member=Wire PWR_IN
+Added Member To Class: ClassName=D7_Nets Member=Wire PWR_IN
+Added Member To Class: ClassName=U1_Nets Member=Wire PWR_IN
+Added Member To Class: ClassName=D7_Nets Member=Wire TP5100_BATT
+Added Rule: Name=Schematic Supply Nets_13

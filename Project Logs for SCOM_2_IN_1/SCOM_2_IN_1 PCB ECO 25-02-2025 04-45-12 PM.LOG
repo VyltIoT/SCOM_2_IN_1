@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=C9 Old Footprint=CAP_6.3_7.7 New Footprint=CAP_D10_H16_P5
+Change component parameters: Designator = "C9" ("C9"); Footprint = "CAP_6.3_7.7"; UniqueID = "\RFJSKWBD" ("\RFJSKWBD")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "10X5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "220uF"; VariantName = "[No Variations]"

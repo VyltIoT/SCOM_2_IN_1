@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VIN Pin=C9-1
+Removed Member From Class: ClassName=C9_Nets Member=VIN
+Added Pin To Net: NetName=VCC Pin=C9-1
+Added Member To Class: ClassName=C9_Nets Member=Wire VCC

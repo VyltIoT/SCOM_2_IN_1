@@ -1,0 +1,83 @@
+Removed Pin From Net: NetName=5V0 Pin=C27-1
+Removed Pin From Net: NetName=GND Pin=C27-2
+Removed Pin From Net: NetName=MODEM_UART0_RX_3V3 Pin=J21-7
+Removed Pin From Net: NetName=MODEM_UART0_TX_3V3 Pin=J21-8
+Removed Pin From Net: NetName=MODEM_VDDBB Pin=J21-13
+Removed Pin From Net: NetName=MODEM_VDDBB Pin=J21-14
+Removed Pin From Net: NetName=VBATT_3V8_CTRL Pin=J21-15
+Removed Pin From Net: NetName=MODEM_NRDY_STAT_3V3 Pin=J21-16
+Removed Pin From Net: NetName=GND Pin=J21-17
+Removed Pin From Net: NetName=MCU_MODEM_RESETN_3V3 Pin=J21-18
+Removed Pin From Net: NetName=GND Pin=J21-19
+Removed Pin From Net: NetName=MCU_MODEM_PWRKEY_3V3 Pin=J21-20
+Removed Pin From Net: NetName=MODEM_VDDEXT Pin=R29-2
+Removed Pin From Net: NetName=GND Pin=R30-2
+Removed Pin From Net: NetName=MODEM_SPI0_CS Pin=U4-1
+Removed Pin From Net: NetName=MODEM_SPI0_MO Pin=U4-3
+Removed Pin From Net: NetName=MODEM_SPI0_MI Pin=U4-4
+Removed Pin From Net: NetName=MODEM_SPI0_CLK Pin=U4-5
+Removed Pin From Net: NetName=MODEM_I2C1_SCL Pin=U4-6
+Removed Pin From Net: NetName=MODEM_I2C1_SDA Pin=U4-7
+Removed Pin From Net: NetName=MODEM_UART1_RX Pin=U6-1
+Removed Pin From Net: NetName=MODEM_VDDEXT Pin=U6-2
+Removed Pin From Net: NetName=MODEM_UART1_TX Pin=U6-3
+Removed Pin From Net: NetName=MODEM_UART2_RX Pin=U6-4
+Removed Pin From Net: NetName=MODEM_UART2_TX Pin=U6-5
+Removed Pin From Net: NetName=MODEM_NRDY_STAT Pin=U6-6
+Removed Pin From Net: NetName=GND Pin=U6-11
+Removed Pin From Net: NetName=MODEM_NRDY_STAT_3V3 Pin=U6-15
+Removed Pin From Net: NetName=MODEM_LVS_3V3 Pin=U6-19
+Removed Pin From Net: NetName=GND Pin=U7-1
+Removed Pin From Net: NetName=5V0 Pin=U7-3
+Removed Member From Class: ClassName=MODEM_PT2 Member=C27
+Removed Member From Class: ClassName=MODEM_PT2 Member=J21
+Removed Member From Class: ClassName=MODEM_PT2 Member=R29
+Removed Member From Class: ClassName=MODEM_PT2 Member=R30
+Removed Member From Class: ClassName=MODEM_PT2 Member=U6
+Removed Member From Class: ClassName=MODEM_PT2 Member=U7
+Removed Member From Class: ClassName=U4_Nets Member=MODEM_I2C1_SCL_3V3
+Removed Member From Class: ClassName=U4_Nets Member=MODEM_I2C1_SCL
+Removed Member From Class: ClassName=U4_Nets Member=MODEM_I2C1_SDA_3V3
+Removed Member From Class: ClassName=U4_Nets Member=MODEM_I2C1_SDA
+Removed Member From Class: ClassName=U4_Nets Member=MODEM_SPI0_CLK_3V3
+Removed Member From Class: ClassName=U4_Nets Member=MODEM_SPI0_CLK
+Removed Member From Class: ClassName=U4_Nets Member=MODEM_SPI0_CS_3V3
+Removed Member From Class: ClassName=U4_Nets Member=MODEM_SPI0_CS
+Removed Member From Class: ClassName=U4_Nets Member=MODEM_SPI0_MI_3V3
+Removed Member From Class: ClassName=U4_Nets Member=MODEM_SPI0_MI
+Removed Member From Class: ClassName=U4_Nets Member=MODEM_SPI0_MO_3V3
+Removed Member From Class: ClassName=U4_Nets Member=MODEM_SPI0_MO
+Added Pin To Net: NetName=MODEM_NRDY_STAT Pin=U4-7
+Added Pin To Net: NetName=MODEM_NRDY_STAT_3V3 Pin=U4-14
+Added Pin To Net: NetName=NetU4_1 Pin=U4-1
+Added Net: Name=NetU4_1
+Added Pin To Net: NetName=NetU4_3 Pin=U4-3
+Added Net: Name=NetU4_3
+Added Pin To Net: NetName=NetU4_4 Pin=U4-4
+Added Net: Name=NetU4_4
+Added Pin To Net: NetName=NetU4_5 Pin=U4-5
+Added Net: Name=NetU4_5
+Added Pin To Net: NetName=NetU4_6 Pin=U4-6
+Added Net: Name=NetU4_6
+Added Pin To Net: NetName=NetU4_15 Pin=U4-15
+Added Net: Name=NetU4_15
+Added Pin To Net: NetName=NetU4_16 Pin=U4-16
+Added Net: Name=NetU4_16
+Added Pin To Net: NetName=NetU4_17 Pin=U4-17
+Added Net: Name=NetU4_17
+Added Pin To Net: NetName=NetU4_18 Pin=U4-18
+Added Net: Name=NetU4_18
+Added Pin To Net: NetName=NetU4_20 Pin=U4-20
+Added Net: Name=NetU4_20
+Added Member To Class: ClassName=U4_Nets Member=Wire MODEM_NRDY_STAT_3V3
+Added Member To Class: ClassName=U4_Nets Member=Wire MODEM_NRDY_STAT
+Added Member To Class: ClassName=U4_Nets Member=Wire NetU4_1
+Added Member To Class: ClassName=U4_Nets Member=Wire NetU4_3
+Added Member To Class: ClassName=U4_Nets Member=Wire NetU4_4
+Added Member To Class: ClassName=U4_Nets Member=Wire NetU4_5
+Added Member To Class: ClassName=U4_Nets Member=Wire NetU4_6
+Added Member To Class: ClassName=U4_Nets Member=Wire NetU4_15
+Added Member To Class: ClassName=U4_Nets Member=Wire NetU4_16
+Added Member To Class: ClassName=U4_Nets Member=Wire NetU4_17
+Added Member To Class: ClassName=U4_Nets Member=Wire NetU4_18
+Added Member To Class: ClassName=U4_Nets Member=Wire NetU4_20

@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=MODEM_SD_DETECT Pin=M1-23
+Removed Pin From Net: NetName=MODEM_SD_DATA3 Pin=M1-28
+Removed Pin From Net: NetName=MODEM_SD_DATA2 Pin=M1-29
+Removed Pin From Net: NetName=MODEM_SD_DATA1 Pin=M1-30
+Removed Pin From Net: NetName=MODEM_SD_DATA0 Pin=M1-31
+Removed Pin From Net: NetName=MODEM_SD_CLK Pin=M1-32
+Removed Pin From Net: NetName=MODEM_SD_CMD Pin=M1-33
+Removed Pin From Net: NetName=NetM1_126 Pin=TP7-1
+Removed Member From Class: ClassName=MODEM_PT1 Member=TP7
+Removed Member From Class: ClassName=M1_Nets Member=MODEM_SD_CLK
+Removed Member From Class: ClassName=M1_Nets Member=MODEM_SD_CMD
+Removed Member From Class: ClassName=M1_Nets Member=MODEM_SD_DATA0
+Removed Member From Class: ClassName=M1_Nets Member=MODEM_SD_DATA1
+Removed Member From Class: ClassName=M1_Nets Member=MODEM_SD_DATA2
+Removed Member From Class: ClassName=M1_Nets Member=MODEM_SD_DATA3
+Removed Member From Class: ClassName=M1_Nets Member=MODEM_SD_DETECT
+Removed Member From Class: ClassName=M1_Nets Member=MODEM_SD_VDD
+Removed Member From Class: ClassName=M1_Nets Member=MODEM_UART1_RX
+Removed Member From Class: ClassName=M1_Nets Member=MODEM_UART1_TX
+Removed Member From Class: ClassName=M1_Nets Member=MODEM_UART2_RX
+Removed Member From Class: ClassName=M1_Nets Member=MODEM_UART2_TX
+Removed Member From Class: ClassName=M1_Nets Member=MODEM_USB_N
+Removed Member From Class: ClassName=M1_Nets Member=MODEM_USB_P
+Removed Member From Class: ClassName=M1_Nets Member=MODEM_USB_VBUS
+Change Net Name : Old Net Name=MODEM_SD_VDD New Net Name=NetM1_34
+Change Net Name : Old Net Name=MODEM_UART1_RX New Net Name=NetM1_11
+Change Net Name : Old Net Name=MODEM_UART1_TX New Net Name=NetM1_12
+Change Net Name : Old Net Name=MODEM_UART2_RX New Net Name=NetM1_137
+Change Net Name : Old Net Name=MODEM_UART2_TX New Net Name=NetM1_138
+Change Net Name : Old Net Name=MODEM_USB_N New Net Name=NetM1_70
+Change Net Name : Old Net Name=MODEM_USB_P New Net Name=NetM1_69
+Change Net Name : Old Net Name=MODEM_USB_VBUS New Net Name=NetM1_71
+Added Pin To Net: NetName=NetM1_23 Pin=M1-23
+Added Net: Name=NetM1_23
+Added Pin To Net: NetName=NetM1_28 Pin=M1-28
+Added Net: Name=NetM1_28
+Added Pin To Net: NetName=NetM1_29 Pin=M1-29
+Added Net: Name=NetM1_29
+Added Pin To Net: NetName=NetM1_30 Pin=M1-30
+Added Net: Name=NetM1_30
+Added Pin To Net: NetName=NetM1_31 Pin=M1-31
+Added Net: Name=NetM1_31
+Added Pin To Net: NetName=NetM1_32 Pin=M1-32
+Added Net: Name=NetM1_32
+Added Pin To Net: NetName=NetM1_33 Pin=M1-33
+Added Net: Name=NetM1_33
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_11
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_12
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_23
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_28
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_29
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_30
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_31
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_32
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_33
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_34
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_69
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_70
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_71
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_137
+Added Member To Class: ClassName=M1_Nets Member=Wire NetM1_138

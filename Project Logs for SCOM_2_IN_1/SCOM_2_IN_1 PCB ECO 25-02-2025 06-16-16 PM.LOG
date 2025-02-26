@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=C9 Old Footprint=CAP_D10_H16_P5 New Footprint=CAP_D10_H16_P5 - Flat
+Added Member To Class: ClassName=J1_Nets Member=Wire VCC
+Added Member To Class: ClassName=Q3_Nets Member=Wire VCC
+Added Member To Class: ClassName=R3_Nets Member=Wire VCC
+Added Member To Class: ClassName=R6_Nets Member=Wire VCC
+Added Member To Class: ClassName=R45_Nets Member=Wire VCC
+Added Member To Class: ClassName=TP1_Nets Member=Wire VCC
+Added Member To Class: ClassName=ZD1_Nets Member=Wire VCC
+Added Member To Class: ClassName=C9_Nets Member=Wire VIN
+Added Member To Class: ClassName=R42_Nets Member=Wire VIN

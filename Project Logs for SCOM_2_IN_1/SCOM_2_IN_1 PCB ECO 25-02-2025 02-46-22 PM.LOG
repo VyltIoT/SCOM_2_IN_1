@@ -1,0 +1,147 @@
+Change component parameters: Designator = "C20" ("C20"); Footprint = "CAPC1608X10N"; UniqueID = "\TKILGKRI" ("\TKILGKRI")
+Change component parameters (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Suuplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C25" ("C25"); Footprint = "CAPC1608X10N"; UniqueID = "\YUZPAZOO" ("\YUZPAZOO")
+Change component parameters (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Suuplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=VIN Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=TP5100_VREG Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=TP5100_VS Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=TP5100_VS Pin=C25-1
+Added Pin To Net: NetName=GND Pin=C25-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=PWR_IN Pin=D4-1
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=PWR_IN Pin=D7-1
+Added Pin To Net: NetName=TP5100_BATT Pin=D7-2
+Added Pin To Net: NetName=VCC Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=ADAP_DET_HV Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetD1_1 Pin=L2-1
+Added Pin To Net: NetName=TP5100_VS Pin=L2-2
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetD4_2 Pin=Q3-2
+Added Pin To Net: NetName=VIN Pin=Q3-3
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=VIN Pin=R3-2
+Added Pin To Net: NetName=TP5100_BATT Pin=R4-1
+Added Pin To Net: NetName=TP5100_VS Pin=R4-2
+Added Pin To Net: NetName=NetR3_1 Pin=R6-1
+Added Pin To Net: NetName=VIN Pin=R6-2
+Added Pin To Net: NetName=TP5100_BATT Pin=R7-1
+Added Pin To Net: NetName=TP5100_VS Pin=R7-2
+Added Pin To Net: NetName=NetC8_1 Pin=R8-1
+Added Pin To Net: NetName=NetD1_1 Pin=R8-2
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=TP5100_VREG Pin=R22-1
+Added Pin To Net: NetName=NetR22_2 Pin=R22-2
+Added Pin To Net: NetName=GND Pin=R29-1
+Added Pin To Net: NetName=NetR29_2 Pin=R29-2
+Added Pin To Net: NetName=NetJ2_2 Pin=R30-1
+Added Pin To Net: NetName=TP5100_VREG Pin=R30-2
+Added Pin To Net: NetName=TP5100_BATT Pin=R40-1
+Added Pin To Net: NetName=NetR40_2 Pin=R40-2
+Added Pin To Net: NetName=BATT_SOC Pin=R41-1
+Added Pin To Net: NetName=TP5100_BATT Pin=R41-2
+Added Pin To Net: NetName=ADAP_VOLT Pin=R42-1
+Added Pin To Net: NetName=VIN Pin=R42-2
+Added Pin To Net: NetName=ADAP_VOLT Pin=R43-1
+Added Pin To Net: NetName=GND Pin=R43-2
+Added Pin To Net: NetName=GND Pin=R44-1
+Added Pin To Net: NetName=BATT_SOC Pin=R44-2
+Added Pin To Net: NetName=GND Pin=R45-1
+Added Pin To Net: NetName=VIN Pin=R45-2
+Added Pin To Net: NetName=GND Pin=R46-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R46-2
+Added Pin To Net: NetName=NetSW1_1 Pin=SW1-1
+Added Pin To Net: NetName=VIN Pin=SW1-2
+Added Pin To Net: NetName=VCC Pin=SW1-3
+Added Pin To Net: NetName=NetSW1_4 Pin=SW1-4
+Added Pin To Net: NetName=VIN Pin=SW1-5
+Added Pin To Net: NetName=VCC Pin=SW1-6
+Added Pin To Net: NetName=GND Pin=SW1-7
+Added Pin To Net: NetName=GND Pin=SW1-8
+Added Pin To Net: NetName=VCC Pin=TP1-1
+Added Pin To Net: NetName=VIN Pin=TP2-1
+Added Pin To Net: NetName=TP5100_VREG Pin=TP3-1
+Added Pin To Net: NetName=ADAP_VOLT Pin=TP4-1
+Added Pin To Net: NetName=NetQ3_1 Pin=TP5-1
+Added Pin To Net: NetName=NetR3_1 Pin=U2-1
+Added Pin To Net: NetName=NetD1_1 Pin=U2-2
+Added Pin To Net: NetName=NetD1_1 Pin=U2-3
+Added Pin To Net: NetName=NetR3_1 Pin=U2-4
+Added Pin To Net: NetName=NetR3_1 Pin=U2-5
+Added Pin To Net: NetName=NetR9_2 Pin=U2-6
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=TP5100_VS Pin=U2-8
+Added Pin To Net: NetName=TP5100_BATT Pin=U2-9
+Added Pin To Net: NetName=TP5100_VREG Pin=U2-10
+Added Pin To Net: NetName=NetJ2_2 Pin=U2-11
+Added Pin To Net: NetName=NetR29_2 Pin=U2-12
+Added Pin To Net: NetName=NetR22_2 Pin=U2-13
+Added Pin To Net: NetName=NetU2_14 Pin=U2-14
+Added Pin To Net: NetName=BATT_CHRG Pin=U2-15
+Added Pin To Net: NetName=NetR3_1 Pin=U2-16
+Added Pin To Net: NetName=GND Pin=U2-17
+Added Pin To Net: NetName=NetR40_2 Pin=U3-1
+Added Pin To Net: NetName=ADAP_DET_HV Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=ADAP_DET_LV Pin=U3-4
+Added Pin To Net: NetName=VIN Pin=ZD1-1
+Added Pin To Net: NetName=GND Pin=ZD1-2
+Added Member To Class: ClassName=POWER Member=Component C8 MLCC_0603
+Added Member To Class: ClassName=POWER Member=Component C9 ERP_102-2
+Added Member To Class: ClassName=POWER Member=Component C11 MLCC_0603
+Added Member To Class: ClassName=POWER Member=Component C20 MLCC_0603
+Added Member To Class: ClassName=POWER Member=Component C25 MLCC_0603
+Added Member To Class: ClassName=POWER Member=Component D1 ERP_104-3
+Added Member To Class: ClassName=POWER Member=Component D4 ERP_104-3
+Added Member To Class: ClassName=POWER Member=Component D7 ERP_104-3
+Added Member To Class: ClassName=POWER Member=Component J1 KLDX-0202-AC
+Added Member To Class: ClassName=POWER Member=Component J2 2PX1R
+Added Member To Class: ClassName=POWER Member=Component L2 IND_1212
+Added Member To Class: ClassName=POWER Member=Component Q3 IRFR5305TRPBF
+Added Member To Class: ClassName=POWER Member=Component R3 RES_1206
+Added Member To Class: ClassName=POWER Member=Component R4 RES_1206
+Added Member To Class: ClassName=POWER Member=Component R6 RES_1206
+Added Member To Class: ClassName=POWER Member=Component R7 RES_1206
+Added Member To Class: ClassName=POWER Member=Component R8 ERP_101-1
+Added Member To Class: ClassName=POWER Member=Component R9 ERP_101-1
+Added Member To Class: ClassName=POWER Member=Component R22 ERP_101-1
+Added Member To Class: ClassName=POWER Member=Component R29 ERP_101-1
+Added Member To Class: ClassName=POWER Member=Component R30 ERP_101-1
+Added Member To Class: ClassName=POWER Member=Component R40 ERP_101-1
+Added Member To Class: ClassName=POWER Member=Component R41 ERP_101-1
+Added Member To Class: ClassName=POWER Member=Component R42 ERP_101-1
+Added Member To Class: ClassName=POWER Member=Component R43 ERP_101-1
+Added Member To Class: ClassName=POWER Member=Component R44 ERP_101-1
+Added Member To Class: ClassName=POWER Member=Component R45 ERP_101-1
+Added Member To Class: ClassName=POWER Member=Component R46 ERP_101-1
+Added Member To Class: ClassName=POWER Member=Component SW1 ERP_110-4
+Added Member To Class: ClassName=POWER Member=Component TP1 TP_1MM
+Added Member To Class: ClassName=POWER Member=Component TP2 TP_1MM
+Added Member To Class: ClassName=POWER Member=Component TP3 TP_1MM
+Added Member To Class: ClassName=POWER Member=Component TP4 TP_1MM
+Added Member To Class: ClassName=POWER Member=Component TP5 TP_1MM
+Added Member To Class: ClassName=POWER Member=Component U2 TP5100
+Added Member To Class: ClassName=POWER Member=Component U3 FOD817A3SD
+Added Member To Class: ClassName=POWER Member=Component ZD1 MM3Z

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=MODEM_VDDEXT Pin=C25-1
+Removed Pin From Net: NetName=GND Pin=C25-2
+Removed Pin From Net: NetName=MODEM_VDDEXT Pin=R22-2
+Removed Pin From Net: NetName=GND Pin=U3-4
+Removed Pin From Net: NetName=MODEM_VDDEXT Pin=U3-8
+Removed Member From Class: ClassName=STORAGE Member=C25
+Removed Member From Class: ClassName=STORAGE Member=R22
+Removed Member From Class: ClassName=STORAGE Member=U3

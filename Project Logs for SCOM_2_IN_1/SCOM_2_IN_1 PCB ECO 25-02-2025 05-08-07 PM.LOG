@@ -1,0 +1,66 @@
+Removed Pin From Net: NetName=GND Pin=BAT1-1
+Removed Pin From Net: NetName=NetM1_122 Pin=BAT1-3
+Removed Pin From Net: NetName=NetM1_23 Pin=J1-3
+Removed Pin From Net: NetName=GND Pin=J2-1
+Removed Pin From Net: NetName=NetM1_122 Pin=M1-122
+Removed Pin From Net: NetName=NetR40_2 Pin=R40-2
+Removed Pin From Net: NetName=NetM1_124 Pin=SW1-4
+Removed Pin From Net: NetName=NetR40_2 Pin=U3-1
+Removed Pin From Net: NetName=NetM1_23 Pin=U3-2
+Removed Member From Class: ClassName=POWER Member=BAT1
+Removed Member From Class: ClassName=J2_Nets Member=NetJ2_2
+Removed Member From Class: ClassName=R30_Nets Member=NetJ2_2
+Removed Member From Class: ClassName=U2_Nets Member=NetJ2_2
+Change Component Footprint: Designator=J2 Old Footprint=2PX1R New Footprint=Molex_5.08_3P
+Change Component Footprint: Designator=C9 Old Footprint=CAP_6.3_7.7 New Footprint=CAP_D10_H16_P5
+Change Component Comment : Designator=J2 Old Comment=2PX1R New Comment=Molex_5.08_3P
+Change Component Kind : Designator=J2 Old Kind=Standard (No BOM) New Kind=Standard
+Change component parameters: Designator = "C9" ("C9"); Footprint = "CAP_6.3_7.7"; UniqueID = "\CJKJVKXY" ("\CJKJVKXY")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "10X5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "220uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J2" ("J2"); Footprint = "2PX1R"; UniqueID = "\XCAFIJFB" ("\XCAFIJFB")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R47(RES_0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R48(RES_0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ADAP_DET_HV Pin=J1-3
+Added Pin To Net: NetName=NetM1_122 Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=GND Pin=R48-1
+Added Pin To Net: NetName=NetSW1_4 Pin=SW1-4
+Added Pin To Net: NetName=ADAP_DET_HV Pin=U3-2
+Change Net Name : Old Net Name=NetM1_122 New Net Name=TP5100_BATT
+Change Net Name : Old Net Name=NetR40_2 New Net Name=NetQ3_1
+Added Pin To Net: NetName=BATT_NTC Pin=J2-2
+Added Pin To Net: NetName=BATT_NTC Pin=R30-1
+Added Pin To Net: NetName=BATT_NTC Pin=R47-2
+Added Net: Name=BATT_NTC
+Added Pin To Net: NetName=NetM1_122 Pin=M1-122
+Added Net: Name=NetM1_122
+Added Pin To Net: NetName=NetR40_2 Pin=R40-2
+Added Pin To Net: NetName=NetR40_2 Pin=U3-1
+Added Net: Name=NetR40_2
+Added Pin To Net: NetName=NetR47_1 Pin=R47-1
+Added Pin To Net: NetName=NetR47_1 Pin=R48-2
+Added Pin To Net: NetName=NetR47_1 Pin=U2-11
+Added Net: Name=NetR47_1
+Added Class: Name=R47_Nets
+Added Class: Name=R48_Nets
+Added Member To Class: ClassName=POWER Member=Component R47 ERP_101-1
+Added Member To Class: ClassName=POWER Member=Component R48 ERP_101-1
+Added Member To Class: ClassName=J2_Nets Member=Wire BATT_NTC
+Added Member To Class: ClassName=R30_Nets Member=Wire BATT_NTC
+Added Member To Class: ClassName=U2_Nets Member=Wire NetR47_1
+Added Member To Class: ClassName=J2_Nets Member=Wire TP5100_BATT

@@ -1,0 +1,124 @@
+Removed Pin From Net: NetName=GND Pin=M?-1
+Removed Pin From Net: NetName=3V3 Pin=M?-2
+Removed Pin From Net: NetName=ESP_EN Pin=M?-3
+Removed Pin From Net: NetName=BATT_SOC Pin=M?-4
+Removed Pin From Net: NetName=ADAP_VOLT Pin=M?-6
+Removed Pin From Net: NetName=ADAP_DET_LV Pin=M?-7
+Removed Pin From Net: NetName=MCU_MODEM_PWRKEY_3V3 Pin=M?-8
+Removed Pin From Net: NetName=LORA_DIO Pin=M?-10
+Removed Pin From Net: NetName=STATUS_LED Pin=M?-12
+Removed Pin From Net: NetName=LORA_SCLK Pin=M?-13
+Removed Pin From Net: NetName=LORA_MISO Pin=M?-14
+Removed Pin From Net: NetName=GND Pin=M?-15
+Removed Pin From Net: NetName=LORA_MOSI Pin=M?-16
+Removed Pin From Net: NetName=LORA_CS Pin=M?-23
+Removed Pin From Net: NetName=ESP_IO0 Pin=M?-25
+Removed Pin From Net: NetName=LTE_RX Pin=M?-26
+Removed Pin From Net: NetName=SD_CS Pin=M?-27
+Removed Pin From Net: NetName=LORA_RST Pin=M?-28
+Removed Pin From Net: NetName=LTE_TX Pin=M?-29
+Removed Pin From Net: NetName=SD_SCLK Pin=M?-30
+Removed Pin From Net: NetName=SD_MISO Pin=M?-31
+Removed Pin From Net: NetName=SDA Pin=M?-33
+Removed Pin From Net: NetName=MCU_RX Pin=M?-34
+Removed Pin From Net: NetName=MCU_TX Pin=M?-35
+Removed Pin From Net: NetName=SCL Pin=M?-36
+Removed Pin From Net: NetName=SD_MOSI Pin=M?-37
+Removed Pin From Net: NetName=GND Pin=M?-38
+Removed Pin From Net: NetName=GND Pin=M?-39
+Removed Pin From Net: NetName=GND Pin=M?-40
+Removed Pin From Net: NetName=GND Pin=M?-41
+Removed Pin From Net: NetName=GND Pin=M?-42
+Removed Pin From Net: NetName=GND Pin=M?-43
+Removed Pin From Net: NetName=GND Pin=M?-44
+Removed Pin From Net: NetName=GND Pin=M?-45
+Removed Pin From Net: NetName=GND Pin=M?-46
+Removed Pin From Net: NetName=GND Pin=M?-47
+Removed Member From Class: ClassName=MCU Member=M?
+Removed Member From Class: ClassName=M?_Nets Member=NetM?_5
+Removed Member From Class: ClassName=M?_Nets Member=NetM?_9
+Removed Member From Class: ClassName=M?_Nets Member=NetM?_11
+Removed Member From Class: ClassName=M?_Nets Member=NetM?_17
+Removed Member From Class: ClassName=M?_Nets Member=NetM?_18
+Removed Member From Class: ClassName=M?_Nets Member=NetM?_19
+Removed Member From Class: ClassName=M?_Nets Member=NetM?_20
+Removed Member From Class: ClassName=M?_Nets Member=NetM?_21
+Removed Member From Class: ClassName=M?_Nets Member=NetM?_22
+Removed Member From Class: ClassName=M?_Nets Member=NetM?_24
+Removed Member From Class: ClassName=M?_Nets Member=NetM?_32
+Added Component: Designator=M2(ESP32-WROOM-32UE)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "ESP32-WROOM-32E"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=M2-1
+Added Pin To Net: NetName=3V3 Pin=M2-2
+Added Pin To Net: NetName=ESP_EN Pin=M2-3
+Added Pin To Net: NetName=BATT_SOC Pin=M2-4
+Added Pin To Net: NetName=ADAP_VOLT Pin=M2-6
+Added Pin To Net: NetName=ADAP_DET_LV Pin=M2-7
+Added Pin To Net: NetName=MCU_MODEM_PWRKEY_3V3 Pin=M2-8
+Added Pin To Net: NetName=LORA_DIO Pin=M2-10
+Added Pin To Net: NetName=STATUS_LED Pin=M2-12
+Added Pin To Net: NetName=LORA_SCLK Pin=M2-13
+Added Pin To Net: NetName=LORA_MISO Pin=M2-14
+Added Pin To Net: NetName=GND Pin=M2-15
+Added Pin To Net: NetName=LORA_MOSI Pin=M2-16
+Added Pin To Net: NetName=LORA_CS Pin=M2-23
+Added Pin To Net: NetName=ESP_IO0 Pin=M2-25
+Added Pin To Net: NetName=LTE_RX Pin=M2-26
+Added Pin To Net: NetName=SD_CS Pin=M2-27
+Added Pin To Net: NetName=LORA_RST Pin=M2-28
+Added Pin To Net: NetName=LTE_TX Pin=M2-29
+Added Pin To Net: NetName=SD_SCLK Pin=M2-30
+Added Pin To Net: NetName=SD_MISO Pin=M2-31
+Added Pin To Net: NetName=SDA Pin=M2-33
+Added Pin To Net: NetName=MCU_RX Pin=M2-34
+Added Pin To Net: NetName=MCU_TX Pin=M2-35
+Added Pin To Net: NetName=SCL Pin=M2-36
+Added Pin To Net: NetName=SD_MOSI Pin=M2-37
+Added Pin To Net: NetName=GND Pin=M2-38
+Added Pin To Net: NetName=GND Pin=M2-39
+Added Pin To Net: NetName=GND Pin=M2-40
+Added Pin To Net: NetName=GND Pin=M2-41
+Added Pin To Net: NetName=GND Pin=M2-42
+Added Pin To Net: NetName=GND Pin=M2-43
+Added Pin To Net: NetName=GND Pin=M2-44
+Added Pin To Net: NetName=GND Pin=M2-45
+Added Pin To Net: NetName=GND Pin=M2-46
+Added Pin To Net: NetName=GND Pin=M2-47
+Added Pin To Net: NetName=NetM2_5 Pin=M2-5
+Added Net: Name=NetM2_5
+Added Pin To Net: NetName=NetM2_9 Pin=M2-9
+Added Net: Name=NetM2_9
+Added Pin To Net: NetName=NetM2_11 Pin=M2-11
+Added Net: Name=NetM2_11
+Added Pin To Net: NetName=NetM2_17 Pin=M2-17
+Added Net: Name=NetM2_17
+Added Pin To Net: NetName=NetM2_18 Pin=M2-18
+Added Net: Name=NetM2_18
+Added Pin To Net: NetName=NetM2_19 Pin=M2-19
+Added Net: Name=NetM2_19
+Added Pin To Net: NetName=NetM2_20 Pin=M2-20
+Added Net: Name=NetM2_20
+Added Pin To Net: NetName=NetM2_21 Pin=M2-21
+Added Net: Name=NetM2_21
+Added Pin To Net: NetName=NetM2_22 Pin=M2-22
+Added Net: Name=NetM2_22
+Added Pin To Net: NetName=NetM2_24 Pin=M2-24
+Added Net: Name=NetM2_24
+Added Pin To Net: NetName=NetM2_32 Pin=M2-32
+Added Net: Name=NetM2_32
+Change Class Name : Old Net Name=M?_Nets New Net Name=M2_Nets
+Added Member To Class: ClassName=MCU Member=Component M2 ESP32-WROOM-32E
+Added Member To Class: ClassName=M2_Nets Member=Wire NetM2_5
+Added Member To Class: ClassName=M2_Nets Member=Wire NetM2_9
+Added Member To Class: ClassName=M2_Nets Member=Wire NetM2_11
+Added Member To Class: ClassName=M2_Nets Member=Wire NetM2_17
+Added Member To Class: ClassName=M2_Nets Member=Wire NetM2_18
+Added Member To Class: ClassName=M2_Nets Member=Wire NetM2_19
+Added Member To Class: ClassName=M2_Nets Member=Wire NetM2_20
+Added Member To Class: ClassName=M2_Nets Member=Wire NetM2_21
+Added Member To Class: ClassName=M2_Nets Member=Wire NetM2_22
+Added Member To Class: ClassName=M2_Nets Member=Wire NetM2_24
+Added Member To Class: ClassName=M2_Nets Member=Wire NetM2_32

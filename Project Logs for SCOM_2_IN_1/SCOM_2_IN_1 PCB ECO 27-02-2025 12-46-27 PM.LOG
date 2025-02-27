@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=R33_Nets Member=MODEM_SD_CMD
+Removed Member From Class: ClassName=R35_Nets Member=MODEM_SD_DATA0
+Removed Member From Class: ClassName=R32_Nets Member=MODEM_SD_DATA3
+Change Net Name : Old Net Name=MODEM_SD_CMD New Net Name=SPI_MOSI
+Change Net Name : Old Net Name=MODEM_SD_DATA0 New Net Name=SPI_MISO
+Change Net Name : Old Net Name=MODEM_SD_DATA3 New Net Name=SPI_SD_SS
+Added Member To Class: ClassName=R35_Nets Member=Wire SPI_MISO
+Added Member To Class: ClassName=R33_Nets Member=Wire SPI_MOSI
+Added Member To Class: ClassName=R32_Nets Member=Wire SPI_SD_SS

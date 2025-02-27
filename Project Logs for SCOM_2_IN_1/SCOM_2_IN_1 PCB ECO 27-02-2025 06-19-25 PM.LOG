@@ -1,0 +1,118 @@
+Removed Pin From Net: NetName=GND Pin=C47-2
+Removed Pin From Net: NetName=5V0 Pin=C48-1
+Removed Pin From Net: NetName=GND Pin=C48-2
+Removed Pin From Net: NetName=5V0 Pin=C49-1
+Removed Pin From Net: NetName=GND Pin=C49-2
+Removed Pin From Net: NetName=5V0 Pin=C50-1
+Removed Pin From Net: NetName=GND Pin=C50-2
+Removed Pin From Net: NetName=GND Pin=M3-2
+Removed Pin From Net: NetName=GND Pin=M3-11
+Removed Pin From Net: NetName=GND Pin=M3-13
+Removed Pin From Net: NetName=GND Pin=M3-14
+Removed Pin From Net: NetName=GND Pin=M3-15
+Removed Pin From Net: NetName=GND Pin=M3-16
+Removed Pin From Net: NetName=GND Pin=M3-19
+Removed Pin From Net: NetName=5V0 Pin=M3-25
+Removed Pin From Net: NetName=GND Pin=M3-26
+Removed Pin From Net: NetName=GND Pin=Q4-2
+Removed Pin From Net: NetName=5V0 Pin=R52-2
+Removed Pin From Net: NetName=LORA_RST Pin=R53-2
+Removed Member From Class: ClassName=MCU Member=C49
+Removed Member From Class: ClassName=MCU Member=C50
+Removed Member From Class: ClassName=MCU Member=Q4
+Removed Member From Class: ClassName=MCU Member=R52
+Removed Member From Class: ClassName=MCU Member=R53
+Removed Member From Class: ClassName=C48_Nets Member=5V0
+Removed Member From Class: ClassName=M3_Nets Member=5V0
+Removed Member From Class: ClassName=M3_Nets Member=LORA_AUX
+Removed Member From Class: ClassName=M3_Nets Member=LORA_M0
+Removed Member From Class: ClassName=M3_Nets Member=LORA_M1
+Removed Member From Class: ClassName=M3_Nets Member=LORA_RXD
+Removed Member From Class: ClassName=M3_Nets Member=LORA_TXD
+Removed Member From Class: ClassName=C47_Nets Member=NetC47_1
+Removed Member From Class: ClassName=M3_Nets Member=NetC47_1
+Removed Member From Class: ClassName=M3_Nets Member=NetM3_3
+Removed Member From Class: ClassName=M3_Nets Member=NetM3_4
+Removed Member From Class: ClassName=M3_Nets Member=NetM3_5
+Removed Member From Class: ClassName=M3_Nets Member=NetM3_6
+Change Component Footprint: Designator=C48 Old Footprint=CAP_D10_H16_P5 New Footprint=CAPC0603X03L
+Change Component Footprint: Designator=C47 Old Footprint=CAPC2012X13L New Footprint=CAPC0603X03L
+Change Component Footprint: Designator=M3 Old Footprint=E22-XXXT22S New Footprint=RFM96W
+Change Component Comment : Designator=M3 Old Comment=E22-XXXT22S New Comment=RFM96W
+Change Component Comment : Designator=C48 Old Comment=ERP_102-2 New Comment=ERP_102-1
+Change Component Comment : Designator=C47 Old Comment=MLCC_0805 New Comment=ERP_102-1
+Change Component Kind : Designator=C48 Old Kind=Standard New Kind=Standard (No BOM)
+Change component parameters: Designator = "C47" ("C47"); Footprint = "CAPC2012X13L"; UniqueID = "\FBIUQYUX" ("\FBIUQYUX")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "NM"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C48" ("C48"); Footprint = "CAP_D10_H16_P5"; UniqueID = "\HBXQQDHY" ("\HBXQQDHY")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "NM"; VariantName = "[No Variations]"
+Change component parameters: Designator = "M3" ("M3"); Footprint = "E22-XXXT22S"; UniqueID = "\DDZNHBNV" ("\DDZNHBNV")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J10(uFL_50R)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "L3W3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Suuplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R31(RESC0603X03L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C47-1
+Added Pin To Net: NetName=GND Pin=C48-1
+Added Pin To Net: NetName=GND Pin=J10-1
+Added Pin To Net: NetName=GND Pin=J10-2
+Added Pin To Net: NetName=GND Pin=M3-1
+Added Pin To Net: NetName=LORA_MISO Pin=M3-2
+Added Pin To Net: NetName=LORA_MOSI Pin=M3-3
+Added Pin To Net: NetName=LORA_SCLK Pin=M3-4
+Added Pin To Net: NetName=LORA_CS Pin=M3-5
+Added Pin To Net: NetName=LORA_RST Pin=M3-6
+Added Pin To Net: NetName=GND Pin=M3-10
+Added Pin To Net: NetName=3V3 Pin=M3-13
+Added Pin To Net: NetName=LORA_ANT Pin=C47-2
+Added Pin To Net: NetName=LORA_ANT Pin=M3-9
+Added Pin To Net: NetName=LORA_ANT Pin=R31-2
+Added Net: Name=LORA_ANT
+Added Pin To Net: NetName=LORA_DIO0 Pin=M3-14
+Added Net: Name=LORA_DIO0
+Added Pin To Net: NetName=NetC48_2 Pin=C48-2
+Added Pin To Net: NetName=NetC48_2 Pin=J10-3
+Added Pin To Net: NetName=NetC48_2 Pin=R31-1
+Added Net: Name=NetC48_2
+Added Pin To Net: NetName=NetM3_11 Pin=M3-11
+Added Net: Name=NetM3_11
+Added Pin To Net: NetName=NetM3_15 Pin=M3-15
+Added Net: Name=NetM3_15
+Added Pin To Net: NetName=NetM3_16 Pin=M3-16
+Added Net: Name=NetM3_16
+Added Class: Name=J10_Nets
+Added Class: Name=R31_Nets
+Added Member To Class: ClassName=MCU Member=Component J10 ERP_148-1
+Added Member To Class: ClassName=MCU Member=Component R31 ERP_101-1
+Added Member To Class: ClassName=M3_Nets Member=Wire 3V3
+Added Member To Class: ClassName=C47_Nets Member=Wire LORA_ANT
+Added Member To Class: ClassName=M3_Nets Member=Wire LORA_ANT
+Added Member To Class: ClassName=M3_Nets Member=Wire LORA_CS
+Added Member To Class: ClassName=M3_Nets Member=Wire LORA_DIO0
+Added Member To Class: ClassName=M3_Nets Member=Wire LORA_MISO
+Added Member To Class: ClassName=M3_Nets Member=Wire LORA_MOSI
+Added Member To Class: ClassName=M3_Nets Member=Wire LORA_RST
+Added Member To Class: ClassName=M3_Nets Member=Wire LORA_SCLK
+Added Member To Class: ClassName=ANT_50R Member=Wire NetC48_2
+Added Member To Class: ClassName=C48_Nets Member=Wire NetC48_2
+Added Member To Class: ClassName=M3_Nets Member=Wire NetM3_11
+Added Member To Class: ClassName=M3_Nets Member=Wire NetM3_15
+Added Member To Class: ClassName=M3_Nets Member=Wire NetM3_16
+Added Rule: Name=Schematic Width Constraint_1

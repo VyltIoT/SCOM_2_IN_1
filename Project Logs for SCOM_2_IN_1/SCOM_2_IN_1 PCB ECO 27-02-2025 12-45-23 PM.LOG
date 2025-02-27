@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=NetJ5_8 Pin=R26-1
+Removed Pin From Net: NetName=NetJ5_1 Pin=R30-1
+Removed Pin From Net: NetName=3V3 Pin=R30-2
+Removed Pin From Net: NetName=NetJ5_1 Pin=R31-1
+Removed Pin From Net: NetName=NetJ5_8 Pin=R36-1
+Removed Member From Class: ClassName=STORAGE Member=R30
+Removed Member From Class: ClassName=STORAGE Member=R31
+Removed Member From Class: ClassName=STORAGE Member=R36
+Removed Member From Class: ClassName=R34_Nets Member=MODEM_SD_CLK
+Removed Member From Class: ClassName=R26_Nets Member=NetJ5_8
+Added Pin To Net: NetName=NetJ5_5 Pin=R26-1
+Change Net Name : Old Net Name=MODEM_SD_CLK New Net Name=SPI_CLK
+Change Class Name : Old Net Name=J7_Nets New Net Name=J8_Nets
+Added Class: Name=J7_Nets
+Added Member To Class: ClassName=MCU Member=Component C46 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C47 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C50 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C51 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C52 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C53 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component J7 Terminal_Block_3Pin_5.08P
+Added Member To Class: ClassName=MCU Member=Component J8 Terminal_Block_4Pin_5.08P
+Added Member To Class: ClassName=MCU Member=Component J10 GSB1CA11101DSHR
+Added Member To Class: ClassName=MCU Member=Component R50 ERP_101-1
+Added Member To Class: ClassName=MCU Member=Component R52 ERP_101-1
+Added Member To Class: ClassName=MCU Member=Component R53 ERP_101-1
+Added Member To Class: ClassName=MCU Member=Component R54 ERP_101-1
+Added Member To Class: ClassName=MCU Member=Component R55 ERP_101-1
+Added Member To Class: ClassName=MCU Member=Component R56 ERP_101-1
+Added Member To Class: ClassName=MCU Member=Component R57 ERP_101-1
+Added Member To Class: ClassName=MCU Member=Component R58 ERP_101-1
+Added Member To Class: ClassName=MCU Member=Component R59 ERP_101-1
+Added Member To Class: ClassName=MCU Member=Component R61 ERP_101-1
+Added Member To Class: ClassName=MCU Member=Component U8 ERP_123-1
+Added Member To Class: ClassName=R26_Nets Member=Wire NetJ5_5
+Added Member To Class: ClassName=J8_Nets Member=Wire NetJ8_4
+Added Member To Class: ClassName=R34_Nets Member=Wire SPI_CLK

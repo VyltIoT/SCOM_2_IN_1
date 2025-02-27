@@ -1,0 +1,22 @@
+Removed Member From Class: ClassName=STORAGE Member=R25
+Removed Member From Class: ClassName=MCU Member=R47
+Change Component Footprint: Designator=C9 Old Footprint=CAP_D10_H16_P5 - Flat New Footprint=CAP_D10_H16_P5
+Added Member To Class: ClassName=POWER Member=Component R19 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT1 Member=Component R22 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT1 Member=Component R24 ERP_101-1
+Added Member To Class: ClassName=STORAGE Member=Component R26 ERP_101-1
+Added Member To Class: ClassName=STORAGE Member=Component R28 ERP_101-1
+Added Member To Class: ClassName=STORAGE Member=Component R30 ERP_101-1
+Added Member To Class: ClassName=STORAGE Member=Component R32 ERP_101-1
+Added Member To Class: ClassName=STORAGE Member=Component R34 ERP_101-1
+Added Member To Class: ClassName=STORAGE Member=Component R36 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT2 Member=Component R38 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT2 Member=Component R42 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT2 Member=Component R44 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT2 Member=Component R46 ERP_101-1
+Added Member To Class: ClassName=MCU Member=Component R48 ERP_101-1
+Added Member To Class: ClassName=MCU Member=Component R49 ERP_101-1
+Added Member To Class: ClassName=MCU Member=Component R51 ERP_101-1
+Added Member To Class: ClassName=MCU Member=Component R53 ERP_101-1
+Added Member To Class: ClassName=MCU Member=Component R55 ERP_101-1
+Added Member To Class: ClassName=MCU Member=Component R57 ERP_101-1

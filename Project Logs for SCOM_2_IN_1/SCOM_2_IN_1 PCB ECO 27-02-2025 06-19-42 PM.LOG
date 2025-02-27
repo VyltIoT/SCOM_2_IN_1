@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=M2_Nets Member=LORA_DIO
+Added Pin To Net: NetName=LORA_DIO0 Pin=M2-10
+Added Member To Class: ClassName=M2_Nets Member=Wire LORA_DIO0

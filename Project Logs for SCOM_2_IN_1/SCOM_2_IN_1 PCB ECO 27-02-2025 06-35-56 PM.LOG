@@ -1,0 +1,28 @@
+Removed Member From Class: ClassName=C30_Nets Member=MODEM_LVS_3V3
+Removed Member From Class: ClassName=C31_Nets Member=MODEM_LVS_3V3
+Removed Member From Class: ClassName=TP7_Nets Member=MODEM_LVS_3V3
+Removed Member From Class: ClassName=M2_Nets Member=NetM2_9
+Removed Member From Class: ClassName=R47_Nets Member=NetR47_1
+Change Component Kind : Designator=R47 Old Kind=Standard New Kind=Standard (No BOM)
+Change component parameters: Designator = "R40" ("R40"); Footprint = "RES_0603"; UniqueID = "\GNWPVHGF" ("\GNWPVHGF")
+Change component parameters (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R42" ("R42"); Footprint = "RES_0603"; UniqueID = "\ITLVJKLF" ("\ITLVJKLF")
+Change component parameters (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=C30-1
+Added Pin To Net: NetName=3V3 Pin=C31-1
+Added Pin To Net: NetName=MCU_MODEM_RESETN_3V3 Pin=M2-9
+Added Pin To Net: NetName=MODEM_VDDEXT Pin=R47-1
+Added Pin To Net: NetName=3V3 Pin=TP7-1
+Added Member To Class: ClassName=C30_Nets Member=Wire 3V3
+Added Member To Class: ClassName=C31_Nets Member=Wire 3V3
+Added Member To Class: ClassName=TP7_Nets Member=Wire 3V3
+Added Member To Class: ClassName=M2_Nets Member=Wire MCU_MODEM_RESETN_3V3
+Added Member To Class: ClassName=R47_Nets Member=Wire MODEM_VDDEXT

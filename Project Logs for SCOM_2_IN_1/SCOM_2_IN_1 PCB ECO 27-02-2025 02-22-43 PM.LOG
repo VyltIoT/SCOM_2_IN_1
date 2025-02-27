@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=U6_Nets Member=NetU6_6
+Removed Member From Class: ClassName=R45_Nets Member=VBATT_3V8_CTRL
+Removed Member From Class: ClassName=U6_Nets Member=VBATT_3V8_CTRL
+Change Component Comment : Designator=U6 Old Comment=LM39302 New Comment=MIC2930
+Added Pin To Net: NetName=GND Pin=U6-6
+Change Net Name : Old Net Name=VBATT_3V8_CTRL New Net Name=NetR45_2
+Added Member To Class: ClassName=R45_Nets Member=Wire NetR45_2
+Added Member To Class: ClassName=U6_Nets Member=Wire NetR45_2

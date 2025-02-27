@@ -1,0 +1,44 @@
+Removed Member From Class: ClassName=R45_Nets Member=NetR45_2
+Removed Member From Class: ClassName=U6_Nets Member=NetR45_2
+Added Component: Designator=Q5(MMBT2222)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Suuplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "MMBT2222A"; VariantName = "[No Variations]"
+Added Component: Designator=R30(RES_0603)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Q5-2
+Added Pin To Net: NetName=MODEM_PWR_CTRL Pin=R30-1
+Added Net: Name=MODEM_PWR_CTRL
+Added Pin To Net: NetName=NetQ5_1 Pin=Q5-1
+Added Pin To Net: NetName=NetQ5_1 Pin=R30-2
+Added Net: Name=NetQ5_1
+Added Pin To Net: NetName=NetQ5_3 Pin=Q5-3
+Added Pin To Net: NetName=NetQ5_3 Pin=R45-2
+Added Pin To Net: NetName=NetQ5_3 Pin=U6-1
+Added Net: Name=NetQ5_3
+Added Class: Name=Q5_Nets
+Added Class: Name=R30_Nets
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C32 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C33 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C34 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C35 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C36 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C37 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C38 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C39 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C40 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C41 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C42 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C43 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component Q5 ERP_105-1
+Added Member To Class: ClassName=MODEM_PT2 Member=Component R30 ERP_101-1
+Added Member To Class: ClassName=R45_Nets Member=Wire NetQ5_3
+Added Member To Class: ClassName=U6_Nets Member=Wire NetQ5_3

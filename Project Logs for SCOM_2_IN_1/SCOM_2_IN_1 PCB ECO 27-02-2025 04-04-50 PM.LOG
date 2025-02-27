@@ -1,0 +1,136 @@
+Removed Pin From Net: NetName=GND Pin=J10-A1
+Removed Pin From Net: NetName=GND Pin=J10-A12
+Removed Pin From Net: NetName=GND Pin=J10-B1
+Removed Pin From Net: NetName=GND Pin=J10-B12
+Removed Pin From Net: NetName=GND Pin=J10-SH1
+Removed Pin From Net: NetName=GND Pin=J10-SH2
+Removed Pin From Net: NetName=GND Pin=J10-SH3
+Removed Pin From Net: NetName=GND Pin=J10-SH4
+Removed Pin From Net: NetName=GND Pin=M2-1
+Removed Pin From Net: NetName=3V3 Pin=M2-2
+Removed Pin From Net: NetName=ESP_EN Pin=M2-3
+Removed Pin From Net: NetName=ESP_IO0 Pin=M2-27
+Removed Pin From Net: NetName=GND Pin=M2-40
+Removed Pin From Net: NetName=GND Pin=M2-41
+Removed Pin From Net: NetName=GND Pin=M2-42
+Removed Pin From Net: NetName=GND Pin=M2-43
+Removed Pin From Net: NetName=GND Pin=M2-44
+Removed Pin From Net: NetName=GND Pin=M2-45
+Removed Pin From Net: NetName=GND Pin=M2-46
+Removed Pin From Net: NetName=GND Pin=M2-47
+Removed Pin From Net: NetName=GND Pin=M2-48
+Removed Pin From Net: NetName=GND Pin=M2-49
+Removed Pin From Net: NetName=3V3 Pin=R56-2
+Removed Pin From Net: NetName=GND Pin=R57-1
+Removed Pin From Net: NetName=GND Pin=R58-2
+Removed Pin From Net: NetName=GND Pin=R61-2
+Removed Member From Class: ClassName=MCU Member=J10
+Removed Member From Class: ClassName=MCU Member=M2
+Removed Member From Class: ClassName=MCU Member=R56
+Removed Member From Class: ClassName=MCU Member=R57
+Removed Member From Class: ClassName=MCU Member=R58
+Removed Member From Class: ClassName=MCU Member=R59
+Removed Member From Class: ClassName=MCU Member=R60
+Removed Member From Class: ClassName=MCU Member=R61
+Removed Member From Class: ClassName=R54_Nets Member=ESP_IO4
+Change component parameters: Designator = "R13" ("R13"); Footprint = "RES_0603"; UniqueID = "\VCXZOECM" ("\VCXZOECM")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "220k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14" ("R14"); Footprint = "RES_0603"; UniqueID = "\WSGWBQRC" ("\WSGWBQRC")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "220k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15" ("R15"); Footprint = "RES_0603"; UniqueID = "\NUBOCAHA" ("\NUBOCAHA")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16" ("R16"); Footprint = "RES_0603"; UniqueID = "\PRGSUSYM" ("\PRGSUSYM")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=M?(ESP32-WROOM-32E)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "ESP32-WROOM-32E"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=M?-1
+Added Pin To Net: NetName=3V3 Pin=M?-2
+Added Pin To Net: NetName=ESP_EN Pin=M?-3
+Added Pin To Net: NetName=BATT_SOC Pin=M?-4
+Added Pin To Net: NetName=ADAP_VOLT Pin=M?-6
+Added Pin To Net: NetName=ADAP_DET_LV Pin=M?-7
+Added Pin To Net: NetName=MCU_MODEM_PWRKEY_3V3 Pin=M?-8
+Added Pin To Net: NetName=GND Pin=M?-15
+Added Pin To Net: NetName=ESP_IO0 Pin=M?-25
+Added Pin To Net: NetName=LORA_RST Pin=M?-28
+Added Pin To Net: NetName=SDA Pin=M?-33
+Added Pin To Net: NetName=SCL Pin=M?-36
+Added Pin To Net: NetName=GND Pin=M?-38
+Added Pin To Net: NetName=GND Pin=M?-39
+Added Pin To Net: NetName=GND Pin=M?-40
+Added Pin To Net: NetName=GND Pin=M?-41
+Added Pin To Net: NetName=GND Pin=M?-42
+Added Pin To Net: NetName=GND Pin=M?-43
+Added Pin To Net: NetName=GND Pin=M?-44
+Added Pin To Net: NetName=GND Pin=M?-45
+Added Pin To Net: NetName=GND Pin=M?-46
+Added Pin To Net: NetName=GND Pin=M?-47
+Added Pin To Net: NetName=LORA_CS Pin=M?-23
+Added Net: Name=LORA_CS
+Added Pin To Net: NetName=LORA_DIO Pin=M?-10
+Added Net: Name=LORA_DIO
+Added Pin To Net: NetName=LORA_MISO Pin=M?-14
+Added Net: Name=LORA_MISO
+Added Pin To Net: NetName=LORA_MOSI Pin=M?-16
+Added Net: Name=LORA_MOSI
+Added Pin To Net: NetName=LORA_SCLK Pin=M?-13
+Added Net: Name=LORA_SCLK
+Added Pin To Net: NetName=LTE_RX Pin=M?-26
+Added Net: Name=LTE_RX
+Added Pin To Net: NetName=LTE_TX Pin=M?-29
+Added Net: Name=LTE_TX
+Added Pin To Net: NetName=MCU_RX Pin=M?-34
+Added Net: Name=MCU_RX
+Added Pin To Net: NetName=MCU_TX Pin=M?-35
+Added Net: Name=MCU_TX
+Added Pin To Net: NetName=NetM?_5 Pin=M?-5
+Added Net: Name=NetM?_5
+Added Pin To Net: NetName=NetM?_9 Pin=M?-9
+Added Net: Name=NetM?_9
+Added Pin To Net: NetName=NetM?_11 Pin=M?-11
+Added Net: Name=NetM?_11
+Added Pin To Net: NetName=NetM?_17 Pin=M?-17
+Added Net: Name=NetM?_17
+Added Pin To Net: NetName=NetM?_18 Pin=M?-18
+Added Net: Name=NetM?_18
+Added Pin To Net: NetName=NetM?_19 Pin=M?-19
+Added Net: Name=NetM?_19
+Added Pin To Net: NetName=NetM?_20 Pin=M?-20
+Added Net: Name=NetM?_20
+Added Pin To Net: NetName=NetM?_21 Pin=M?-21
+Added Net: Name=NetM?_21
+Added Pin To Net: NetName=NetM?_22 Pin=M?-22
+Added Net: Name=NetM?_22
+Added Pin To Net: NetName=NetM?_24 Pin=M?-24
+Added Net: Name=NetM?_24
+Added Pin To Net: NetName=NetM?_32 Pin=M?-32
+Added Net: Name=NetM?_32
+Added Pin To Net: NetName=SD_CS Pin=M?-27
+Added Net: Name=SD_CS
+Added Pin To Net: NetName=SD_MISO Pin=M?-31
+Added Net: Name=SD_MISO
+Added Pin To Net: NetName=SD_MOSI Pin=M?-37
+Added Net: Name=SD_MOSI
+Added Pin To Net: NetName=SD_SCLK Pin=M?-30
+Added Net: Name=SD_SCLK
+Added Pin To Net: NetName=STATUS_LED Pin=M?-12
+Added Pin To Net: NetName=STATUS_LED Pin=R54-2
+Added Net: Name=STATUS_LED
+Added Class: Name=M?_Nets
+Added Member To Class: ClassName=MCU Member=Component M? ESP32-WROOM-32E
+Added Member To Class: ClassName=R54_Nets Member=Wire STATUS_LED

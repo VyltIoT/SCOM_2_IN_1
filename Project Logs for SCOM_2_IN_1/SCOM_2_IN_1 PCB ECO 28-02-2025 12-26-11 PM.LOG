@@ -1,0 +1,28 @@
+Change component parameters: Designator = "C13" ("C13"); Footprint = "CAPC2012X13L"; UniqueID = "\ZMHXQWXV" ("\ZMHXQWXV")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14" ("C14"); Footprint = "CAPC2012X13L"; UniqueID = "\GGYNMWAD" ("\GGYNMWAD")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2u2"; VariantName = "[No Variations]"
+Added Component: Designator=C27(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C49(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1nF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V0 Pin=C27-1
+Added Pin To Net: NetName=GND Pin=C27-2
+Added Pin To Net: NetName=5V0 Pin=C49-1
+Added Pin To Net: NetName=GND Pin=C49-2
+Added Class: Name=C27_Nets
+Added Class: Name=C49_Nets
+Added Member To Class: ClassName=POWER Member=Component C27 MLCC_0805
+Added Member To Class: ClassName=POWER Member=Component C49 MLCC_0805

@@ -1,0 +1,54 @@
+Removed Member From Class: ClassName=STORAGE Member=C15
+Removed Member From Class: ClassName=MODEM_PT1 Member=C29
+Removed Member From Class: ClassName=STORAGE Member=C29
+Removed Member From Class: ClassName=MCU Member=R34
+Removed Member From Class: ClassName=MODEM_PT2 Member=R46
+Removed Member From Class: ClassName=C22_Nets Member=NetC24_1
+Removed Member From Class: ClassName=R24_Nets Member=NetC24_1
+Removed Member From Class: ClassName=R25_Nets Member=NetC24_1
+Removed Member From Class: ClassName=D8_Nets Member=NetD7_2
+Removed Member From Class: ClassName=R50_Nets Member=NetD7_2
+Removed Member From Class: ClassName=M4_Nets Member=NetM3_7
+Added Member To Class: ClassName=MODEM_PT1 Member=Component C17 ERP_102-1
+Added Member To Class: ClassName=MODEM_PT1 Member=Component C19 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT1 Member=Component C20 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT1 Member=Component C21 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT1 Member=Component C22 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT1 Member=Component C24 MLCC_0805
+Added Member To Class: ClassName=STORAGE Member=Component C25 MLCC_0805
+Added Member To Class: ClassName=STORAGE Member=Component C26 MLCC_0805
+Added Member To Class: ClassName=STORAGE Member=Component C27 MLCC_0805
+Added Member To Class: ClassName=STORAGE Member=Component C28 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C30 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C31 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C32 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C34 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C36 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C38 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C40 MLCC_0805
+Added Member To Class: ClassName=MODEM_PT2 Member=Component C42 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C45 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C47 MLCC_0805
+Added Member To Class: ClassName=MCU Member=Component C48 ERP_102-1
+Added Member To Class: ClassName=MCU Member=Component D8 LED_1206
+Added Member To Class: ClassName=MCU Member=Component J8 Terminal_Block_3Pin_5.08P
+Added Member To Class: ClassName=MCU Member=Component J10 ERP_148-2
+Added Member To Class: ClassName=MCU Member=Component M4 RFM96W
+Added Member To Class: ClassName=STORAGE Member=Component R26 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT2 Member=Component R30 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT2 Member=Component R31 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT2 Member=Component R37 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT2 Member=Component R38 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT2 Member=Component R39 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT2 Member=Component R40 ERP_101-1
+Added Member To Class: ClassName=MODEM_PT2 Member=Component R41 ERP_101-1
+Added Member To Class: ClassName=MCU Member=Component R47 ERP_101-1
+Added Member To Class: ClassName=MCU Member=Component R49 ERP_101-1
+Added Member To Class: ClassName=MCU Member=Component U7 ERP_123-1
+Added Member To Class: ClassName=C22_Nets Member=Wire NetC22_1
+Added Member To Class: ClassName=J4_Nets Member=Wire NetC22_1
+Added Member To Class: ClassName=R24_Nets Member=Wire NetC22_1
+Added Member To Class: ClassName=R25_Nets Member=Wire NetC22_1
+Added Member To Class: ClassName=D8_Nets Member=Wire NetD8_2
+Added Member To Class: ClassName=R50_Nets Member=Wire NetD8_2
+Added Member To Class: ClassName=M4_Nets Member=Wire NetM4_7

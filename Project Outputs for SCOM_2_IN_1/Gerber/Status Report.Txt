@@ -1,0 +1,25 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [SCOM_2_IN_1.PcbDoc]
+   Generated File[SCOM_2_IN_1.GTO]
+   Generated File[SCOM_2_IN_1.GTP]
+   Generated File[SCOM_2_IN_1.GTS]
+   Generated File[SCOM_2_IN_1.GTL]
+   Generated File[SCOM_2_IN_1.G1]
+   Generated File[SCOM_2_IN_1.G2]
+   Generated File[SCOM_2_IN_1.GBL]
+   Generated File[SCOM_2_IN_1.GBS]
+   Generated File[SCOM_2_IN_1.GBP]
+   Generated File[SCOM_2_IN_1.GBO]
+   Generated File[SCOM_2_IN_1.GM3]
+   Generated File[SCOM_2_IN_1.GM4]
+   Generated File[SCOM_2_IN_1.GKO]
+   Generated File[SCOM_2_IN_1.GPT]
+   Generated File[SCOM_2_IN_1.GPB]
+   Generated File[SCOM_2_IN_1.GM]
+
+
+Files Generated   : 16
+Documents Printed : 0
+
+Finished Output Generation At 04:03:10 PM On 28-02-2025

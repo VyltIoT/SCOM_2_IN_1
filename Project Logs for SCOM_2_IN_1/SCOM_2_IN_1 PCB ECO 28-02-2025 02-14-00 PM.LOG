@@ -1,0 +1,4 @@
+Added Component: Designator=TP8(TP_1MM)
+Added Pin To Net: NetName=MODEM_VDDBB Pin=TP8-1
+Added Class: Name=TP8_Nets
+Added Member To Class: ClassName=MODEM_PT2 Member=Component TP8 TP_1MM

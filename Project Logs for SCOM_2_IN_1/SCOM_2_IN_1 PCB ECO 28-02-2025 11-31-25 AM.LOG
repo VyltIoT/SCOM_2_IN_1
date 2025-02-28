@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=SD_CS Pin=R32-2
+Removed Pin From Net: NetName=SD_MOSI Pin=R33-2
+Removed Pin From Net: NetName=SD_SCLK Pin=R34-2
+Removed Pin From Net: NetName=SD_MISO Pin=R35-2
+Removed Member From Class: ClassName=STORAGE Member=R32
+Removed Member From Class: ClassName=STORAGE Member=R33
+Removed Member From Class: ClassName=STORAGE Member=R34
+Removed Member From Class: ClassName=STORAGE Member=R35
+Removed Member From Class: ClassName=J5_Nets Member=NetJ5_2
+Removed Member From Class: ClassName=R29_Nets Member=NetJ5_2
+Removed Member From Class: ClassName=J5_Nets Member=NetJ5_3
+Removed Member From Class: ClassName=R28_Nets Member=NetJ5_3
+Removed Member From Class: ClassName=J5_Nets Member=NetJ5_5
+Removed Member From Class: ClassName=R26_Nets Member=NetJ5_5
+Removed Member From Class: ClassName=J5_Nets Member=NetJ5_7
+Removed Member From Class: ClassName=R27_Nets Member=NetJ5_7
+Added Pin To Net: NetName=SD_CS Pin=J5-2
+Added Pin To Net: NetName=SD_MOSI Pin=J5-3
+Added Pin To Net: NetName=SD_SCLK Pin=J5-5
+Added Pin To Net: NetName=SD_MISO Pin=J5-7
+Added Pin To Net: NetName=SD_SCLK Pin=R26-1
+Added Pin To Net: NetName=SD_MISO Pin=R27-1
+Added Pin To Net: NetName=SD_MOSI Pin=R28-1
+Added Pin To Net: NetName=SD_CS Pin=R29-1
+Added Member To Class: ClassName=J5_Nets Member=Wire SD_CS
+Added Member To Class: ClassName=R29_Nets Member=Wire SD_CS
+Added Member To Class: ClassName=J5_Nets Member=Wire SD_MISO
+Added Member To Class: ClassName=R27_Nets Member=Wire SD_MISO
+Added Member To Class: ClassName=J5_Nets Member=Wire SD_MOSI
+Added Member To Class: ClassName=R28_Nets Member=Wire SD_MOSI
+Added Member To Class: ClassName=J5_Nets Member=Wire SD_SCLK
+Added Member To Class: ClassName=R26_Nets Member=Wire SD_SCLK
+Added Rule: Name=Schematic Width Constraint_2
+Added Rule: Name=Schematic Width Constraint_8
+Added Rule: Name=Schematic Width Constraint_11
+Added Rule: Name=Schematic Width Constraint_12

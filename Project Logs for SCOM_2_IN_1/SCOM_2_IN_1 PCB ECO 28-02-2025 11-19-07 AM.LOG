@@ -1,0 +1,19 @@
+Added Component: Designator=D?(LED_1206)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Sunrom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "6395"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "GREEN"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0603)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=STATUS_LED Pin=R?-2
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=R?-1
+Added Net: Name=NetD?_2
+Added Class: Name=D?_Nets
+Added Class: Name=R?_Nets
+Added Member To Class: ClassName=MCU Member=Component D? LED_1206
+Added Member To Class: ClassName=MCU Member=Component R? ERP_101-1
